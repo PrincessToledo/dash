@@ -1,0 +1,39 @@
+* {
+    background-color: #7579e7;
+}
+.body {
+    max-width: 1900px;
+    background-color: #ffffff;
+    border: inherit 1px #ffffff;
+}
+.navbar {
+    overflow: hidden;
+}
+.h2 {
+    float: left;
+    display:block;
+}
+.container {
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.search-box {
+    color: black;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+
+}
+#my-menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#my-menu li a {
+    padding: 12px;
+    text-decoration: none;
+    color: black;
+    display: block
+}

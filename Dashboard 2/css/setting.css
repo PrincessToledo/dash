@@ -1,0 +1,30 @@
+
+#menu {
+    list-style: none;
+    line-height: 40px;
+    margin-left: 0%;
+}
+.upper {
+    display: inline-block;
+}
+.search-icon {
+    float:left;
+    margin: 10px;
+}
+#search-box {
+    border: transparent;
+}
+
+#users {
+    background-color:  #be79df;
+}
+#total {
+    background-color: #0779e4;
+}
+#unique {
+    background-color: #f79071;
+}
+.container {
+    float: right;
+    
+}

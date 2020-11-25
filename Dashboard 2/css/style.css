@@ -1,0 +1,63 @@
+/* General Setting */
+* {
+    background-color: #7579e7;
+    max-width: 1000px;
+}
+#parent {
+    background-color: white;
+}
+body {
+    border: solid 1px #ffffff;
+    box-sizing: border-box;
+    max-width: 900px;
+    margin: 50px auto;
+    background-clip: padding-box;
+    padding:15px;
+}
+.search-box {
+    border: transparent;
+    float: left;
+    margin-left: 10px;
+    color: #000000;
+}
+.top {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.bottom {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+h2 {
+    float: left;
+    margin-left: 10px;
+}
+h2, h6, .search-box, .top, .icons, #search {
+    display: inline-block;
+}
+h6, .top, {
+    float: right;
+}
+.search-box {
+    margin-top: 30px;
+}
+h6 {
+    margin-top:10px;
+    text-align: center;
+}
+.list {
+    list-style: none;
+    line-height: 30px;
+}
+.icons {
+    margin-left: 20px;
+}
+#search {
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+}
